@@ -16,3 +16,6 @@ scanf("%d", &choice);
 	case 2:
             printf("You chose AIML\n");
             break;
+	 case 3:
+            printf("You chose ECE\n");
+            break;
