@@ -12,6 +12,7 @@ scanf("%d", &choice);
     switch (choice) {
         case 1:
             printf("You chose B.Tech CSE\n");
+             printf("You chose B.Tech CSE\n");
             break;
 	case 2:
             printf("You chose AIML\n");
